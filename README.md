@@ -71,12 +71,12 @@ This repository contains implementations of key computer vision concepts: a deno
 ### 🔹 Denoising Autoencoder:
 | Noisy Input | Denoised Output |
 |-------------|-----------------|
-| ![Noisy Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fadd-a-salt-and-pepper-noise-to-an-image-with-python%2F&psig=AOvVaw088ALFDQjbQHhTGqr89lc7&ust=1732710509607000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiCgen_-YkDFQAAAAAdAAAAABAE) | ![Denoised Image](path/to/denoised_image.png) |
+| ![Noisy Image](/dataset-noisy.png) | ![Denoised Image](path/to/denoised_image.png) |
 
 ### 🔹 Object Detection:
 | Image | Ground Truth | Prediction |
 |-------|--------------|------------|
-| ![Image](path/to/image.png) | Red Bounding Boxes | Yellow Bounding Boxes |
+| ![Image](dataset-denoised.png) | Red Bounding Boxes | Yellow Bounding Boxes |
 
 ---
 
