@@ -1,6 +1,4 @@
-Here's a **README.md** file for your GitHub repository with emojis and a professional structure:
 
----
 
 # 🧠✨ Denoiser Autoencoder and Object Detection with YOLO 🚀
 
@@ -73,7 +71,7 @@ This repository contains implementations of key computer vision concepts: a deno
 ### 🔹 Denoising Autoencoder:
 | Noisy Input | Denoised Output |
 |-------------|-----------------|
-| ![Noisy Image](path/to/noisy_image.png) | ![Denoised Image](path/to/denoised_image.png) |
+| ![Noisy Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fadd-a-salt-and-pepper-noise-to-an-image-with-python%2F&psig=AOvVaw088ALFDQjbQHhTGqr89lc7&ust=1732710509607000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiCgen_-YkDFQAAAAAdAAAAABAE) | ![Denoised Image](path/to/denoised_image.png) |
 
 ### 🔹 Object Detection:
 | Image | Ground Truth | Prediction |
@@ -109,8 +107,7 @@ Omer Kamal Ali Ebead, "Denoiser Autoencoder and Object Detection with YOLO"
 
 For questions or suggestions:
 - Author: **Omer Kamal Ali Ebead**
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: [omer@aims.ac.za](mailto:omer@aims.ac.za)
 
 ---
 
-Let me know if you’d like any adjustments!
