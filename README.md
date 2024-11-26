@@ -71,12 +71,12 @@ This repository contains implementations of key computer vision concepts: a deno
 ### 🔹 Denoising Autoencoder:
 | Noisy Input | Denoised Output |
 |-------------|-----------------|
-| ![Noisy Image](/dataset-noisy.png) | ![Denoised Image](path/to/denoised_image.png) |
+| ![Noisy Image](/dataset-noisy.png) | ![Denoised Image](dataset-denoised.png) |
 
 ### 🔹 Object Detection:
 | Image | Ground Truth | Prediction |
 |-------|--------------|------------|
-| ![Image](dataset-denoised.png) | Red Bounding Boxes | Yellow Bounding Boxes |
+| ![Image](dataset-.png) | Red Bounding Boxes | Yellow Bounding Boxes |
 
 ---
 
