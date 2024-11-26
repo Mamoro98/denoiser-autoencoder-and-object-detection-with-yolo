@@ -76,7 +76,7 @@ This repository contains implementations of key computer vision concepts: a deno
 ### 🔹 Object Detection:
 | Image | Ground Truth | Prediction |
 |-------|--------------|------------|
-| ![Image](dataset-.png) | Red Bounding Boxes | Yellow Bounding Boxes |
+| ![Image](object-detection-goats-and-birds.png) | Red Bounding Boxes | Yellow Bounding Boxes |
 
 ---
 
